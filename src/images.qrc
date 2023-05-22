@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/appIcon.png</file>
+        <file>img/backArrow.png</file>
+        <file>img/cutIcon.png</file>
+        <file>img/invertCircleIcon.png</file>
+        <file>img/invertSquareIcon.png</file>
+        <file>img/line.png</file>
+    </qresource>
+</RCC>
